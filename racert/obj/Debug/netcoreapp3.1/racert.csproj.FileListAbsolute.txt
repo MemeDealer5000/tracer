@@ -1,0 +1,11 @@
+C:\Users\Семен\source\repos\racert\racert\obj\Debug\netcoreapp3.1\racert.csprojAssemblyReference.cache
+C:\Users\Семен\source\repos\racert\racert\obj\Debug\netcoreapp3.1\racert.AssemblyInfoInputs.cache
+C:\Users\Семен\source\repos\racert\racert\obj\Debug\netcoreapp3.1\racert.AssemblyInfo.cs
+C:\Users\Семен\source\repos\racert\racert\bin\Debug\netcoreapp3.1\racert.exe
+C:\Users\Семен\source\repos\racert\racert\bin\Debug\netcoreapp3.1\racert.deps.json
+C:\Users\Семен\source\repos\racert\racert\bin\Debug\netcoreapp3.1\racert.runtimeconfig.json
+C:\Users\Семен\source\repos\racert\racert\bin\Debug\netcoreapp3.1\racert.runtimeconfig.dev.json
+C:\Users\Семен\source\repos\racert\racert\bin\Debug\netcoreapp3.1\racert.dll
+C:\Users\Семен\source\repos\racert\racert\bin\Debug\netcoreapp3.1\racert.pdb
+C:\Users\Семен\source\repos\racert\racert\obj\Debug\netcoreapp3.1\racert.dll
+C:\Users\Семен\source\repos\racert\racert\obj\Debug\netcoreapp3.1\racert.pdb
